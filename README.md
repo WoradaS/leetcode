@@ -12,10 +12,13 @@
 - Rotate Array | `Medium`
 - Best Time to Buy and Sell Stock | `Easy`
 
-## Stack
+### Stack
 
 - Valid Parentheses | `Easy`
 
-## Hashmap
+### Hashmap
 
 - Two Sum | `Easy`
+
+### Two Pointers
+- Valid Palindrome | `Easy`
