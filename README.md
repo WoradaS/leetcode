@@ -22,3 +22,4 @@
 
 ### Two Pointers
 - Valid Palindrome | `Easy`
+- Is Subsequence | `Easy`
